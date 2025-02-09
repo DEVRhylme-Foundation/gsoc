@@ -35,7 +35,7 @@ We provide a collaborative environment for learning and building impactful solut
 ### For Mentors
 - Read [Mentor Guidance](mentor-guidance.md).
 - Submit an idea proposal in the [ideas.md](ideas.md) file.
-- Join the [Slack/Discord](https://discord.gg/xjwZzGKDVR)to assist contributors.
+- Join the [Discord](https://discord.gg/xjwZzGKDVR) to assist contributors.
 - Review proposals and provide feedback.
 
 ---
