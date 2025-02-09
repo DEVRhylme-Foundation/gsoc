@@ -29,7 +29,7 @@ We provide a collaborative environment for learning and building impactful solut
    - Start with **Good First Issues** on GitHub.
    - Follow the contribution guidelines and submit a Pull Request (PR).
 5. **Prepare Your GSoC Proposal**
-   - Refer to [Contributor Guidance](Contributor-guidance.md) for proposal structure.
+   - Refer to [Contributor Guidance](https://github.com/DEVRhylme-Foundation/gsoc/blob/main/contributor-guidance.md) for proposal structure.
    - Get feedback from mentors before submission.
 
 ### For Mentors
