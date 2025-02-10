@@ -22,7 +22,7 @@ Do you have an awesome idea you want to work on for Devrhylme Foundation but tha
 the ideas below?
 That's cool. We love that!
 Please get in touch with a mentor early on and make sure your project is
-realistic and within the scope of IHR.
+realistic and within the scope of Devrhylme Foundation.
 
 If there is no specific contact given you can ask questions on github, slack, or
 at contact@devrhylme.org.
