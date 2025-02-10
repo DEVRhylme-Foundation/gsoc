@@ -136,7 +136,10 @@ The project will involve active engagement with the **Devrhlylem Foundation** fo
 
 #### **Conclusion**  
 This GSoC project will **significantly enhance the Go ForgeX documentation website**, making it more user-friendly, **automated**, and interactive. By improving navigation, code reference, and searchability, this project will ensure **developers can quickly find relevant information and boost adoption of Documnetation**.
+
 ----------
+
+
 ### **GSoC Project Proposal: Enhancing DevRhylme Foundation’s Website with Firebase Integration & AI-Powered Features**  
 
 To maximize impact and scalability, this project is divided into two major phases, each requiring **350 hours**. The goal is to transform the **DevRhylme Foundation website** into a **fully dynamic, AI-enhanced, and Firebase-powered** platform showcasing the foundation’s key projects.  
