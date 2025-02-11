@@ -132,7 +132,7 @@ The project will be completed in approximately **150 hours**, including design, 
 The project will involve active engagement with the **Devrhlylem Foundation** for feedback and improvements. Contributions from developers will be encouraged through GitHub discussions.  
 
 **Mentors**: [@MAVRICK-1](https://github.com/MAVRICK-1),  [@Manaregr8](https://github.com/Manaregr8), [@VedantAnand17](https://github.com/VedantAnand17)
-
+**Repository** : [https://github.com/DEVRhylme-Foundation/ForgeX](https://github.com/DEVRhylme-Foundation/ForgeX)
 
 #### **Conclusion**  
 This GSoC project will **significantly enhance the Go ForgeX documentation website**, making it more user-friendly, **automated**, and interactive. By improving navigation, code reference, and searchability, this project will ensure **developers can quickly find relevant information and boost adoption of Documnetation**.
@@ -238,6 +238,8 @@ By completing **both phases**, the DevRhylme Foundation website will evolve into
 
 ### **👥 Mentorship & Community Involvement**  
 This project will involve **DevRhylme mentors** and open-source contributors, ensuring real-world collaboration and feedback.  
+
+**Repository** : [https://github.com/DEVRhylme-Foundation/new-website](https://github.com/DEVRhylme-Foundation/new-website)
 
 **Mentors**: [@MAVRICK-1](https://github.com/MAVRICK-1), [@Durgesh4993](https://github.com/Durgesh4993), [@Divyamsharma-18](https://github.com/Divyamsharma-18), [@devsayanR](https://github.com/devsayanR), [@Manaregr8](https://github.com/Manaregr8)
 
