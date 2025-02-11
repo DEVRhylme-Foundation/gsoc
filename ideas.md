@@ -4,7 +4,7 @@
 
 Make sure you have read the  [contributor guidance](https://github.com/DEVRhylme-Foundation/gsoc/blob/main/contributor-guidance.md)
 
-The below ideas were contributed by current IHR contributors. They are sometimes
+The below ideas were contributed by current DevRhylme Foundation contributors. They are sometimes
 vague or incomplete.
 Questions related to these ideas should be asked on the related [GitHub
 discussion thread](https://github.com/orgs/DEVRhylme-Foundation/discussions).
