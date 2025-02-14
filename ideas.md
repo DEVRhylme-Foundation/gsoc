@@ -75,7 +75,7 @@ The project will be completed in approximately **350 hours**, including developm
 #### **Mentorship & Community Involvement**  
 This project will be open to **community feedback** through GitHub issues, Discord discussions, and Go developer forums. Contributions from the Go community will be actively encouraged.  
 
-**Mentors**: [@MAVRICK-1](https://github.com/MAVRICK-1), [@aditiya](https://github.com/aditiya), [@VedantAnand17](https://github.com/VedantAnand17)
+**Mentors**:<br> Name: [@aditiya](https://github.com/aditiya) Email: aditya@devrhylme.org, <br> Name: [@MAVRICK-1](https://github.com/MAVRICK-1) Email: rishimondal@devrhylme.org, <br> Name: [@VedantAnand17](https://github.com/VedantAnand17) Email: vedantanand@devrhylme.org
 
 
 #### **Conclusion**  
@@ -131,7 +131,7 @@ The project will be completed in approximately **150 hours**, including design, 
 #### **Mentorship & Community Involvement**  
 The project will involve active engagement with the **Devrhlylem Foundation** for feedback and improvements. Contributions from developers will be encouraged through GitHub discussions.  
 
-**Mentors**: [@MAVRICK-1](https://github.com/MAVRICK-1),  [@Manaregr8](https://github.com/Manaregr8), [@VedantAnand17](https://github.com/VedantAnand17)
+**Mentors**:<br> Name: [@Manaregr8](https://github.com/Manaregr8) Email: manjeet@devrhylme.org, <br> Name: [@MAVRICK-1](https://github.com/MAVRICK-1) Email: rishimondal@devrhylme.org, <br>  Name: [@VedantAnand17](https://github.com/VedantAnand17) Email: vedantanand@devrhylme.org <br>
 **Repository** : [https://github.com/DEVRhylme-Foundation/ForgeX](https://github.com/DEVRhylme-Foundation/ForgeX)
 
 #### **Conclusion**  
@@ -239,9 +239,9 @@ By completing **both phases**, the DevRhylme Foundation website will evolve into
 ### **👥 Mentorship & Community Involvement**  
 This project will involve **DevRhylme mentors** and open-source contributors, ensuring real-world collaboration and feedback.  
 
-**Repository** : [https://github.com/DEVRhylme-Foundation/new-website](https://github.com/DEVRhylme-Foundation/new-website)
+**Repository** : [https://github.com/DEVRhylme-Foundation/new-website](https://github.com/DEVRhylme-Foundation/new-website) <br><br>
 
-**Mentors**: [@MAVRICK-1](https://github.com/MAVRICK-1), [@Durgesh4993](https://github.com/Durgesh4993), [@Divyamsharma-18](https://github.com/Divyamsharma-18), [@devsayanR](https://github.com/devsayanR), [@Manaregr8](https://github.com/Manaregr8)
+**Mentors**:<br> Name: [@MAVRICK-1](https://github.com/MAVRICK-1) Email: rishimondal@devrhylme.org, <br> Name: [@Durgesh4993](https://github.com/Durgesh4993) Email: durgesh@devrhylme.org, <br> Name: [@Divyamsharma-18](https://github.com/Divyamsharma-18) Email: divyam@devrhylme.org, <br> Name: [@devsayanR](https://github.com/devsayanR) Email: sayan@devrhylme.org, <br> [@Manaregr8](https://github.com/Manaregr8) Email: manjeet@devrhylme.org 
 
 
 ---
