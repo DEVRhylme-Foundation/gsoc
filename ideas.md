@@ -75,7 +75,13 @@ The project will be completed in approximately **350 hours**, including developm
 #### **Mentorship & Community Involvement**  
 This project will be open to **community feedback** through GitHub issues, Discord discussions, and Go developer forums. Contributions from the Go community will be actively encouraged.  
 
-**Mentors**:<br> Name: [@aditiya](https://github.com/aditiya) Email: aditya@devrhylme.org, <br> Name: [@MAVRICK-1](https://github.com/MAVRICK-1) Email: rishimondal@devrhylme.org, <br> Name: [@VedantAnand17](https://github.com/VedantAnand17) Email: vedantanand@devrhylme.org
+**Mentors**:
+| Name                      | GitHub Profile                                      | Email                        |
+|---------------------------|---------------------------------------------------|------------------------------|
+| Aditya                   | [@aditiya](https://github.com/aditiya)           | aditya@devrhylme.org        |
+| MAVRICK-1                | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
+| Vedant Anand             | [@VedantAnand17](https://github.com/VedantAnand17) | vedantanand@devrhylme.org   |
+
 
 
 #### **Conclusion**  
@@ -126,13 +132,20 @@ The project will be completed in approximately **150 hours**, including design, 
 #### **Expected Impact**  
 - **Improved Readability & Navigation** – Developers will have a smoother experience accessing and understanding documentation.  
 - **Better Code Reference** – Integrated syntax support and interactive snippets will reduce learning curves.  
-- **Automated & Scalable Docs** – Automatic updates ensure the documentation is always in sync with project changes.  
+- **Automated & Scalable Docs** – Automatic updates ensure the documentation is always in sync with project changes.
+
+**Repository** : [https://github.com/DEVRhylme-Foundation/ForgeX](https://github.com/DEVRhylme-Foundation/ForgeX)
 
 #### **Mentorship & Community Involvement**  
 The project will involve active engagement with the **Devrhlylem Foundation** for feedback and improvements. Contributions from developers will be encouraged through GitHub discussions.  
 
-**Mentors**:<br> Name: [@Manaregr8](https://github.com/Manaregr8) Email: manjeet@devrhylme.org, <br> Name: [@MAVRICK-1](https://github.com/MAVRICK-1) Email: rishimondal@devrhylme.org, <br>  Name: [@VedantAnand17](https://github.com/VedantAnand17) Email: vedantanand@devrhylme.org <br>
-**Repository** : [https://github.com/DEVRhylme-Foundation/ForgeX](https://github.com/DEVRhylme-Foundation/ForgeX)
+**Mentors**:
+| Name          | GitHub Profile                                      | Email                        |
+|--------------|---------------------------------------------------|------------------------------|
+| Manaregr8   | [@Manaregr8](https://github.com/Manaregr8)       | manjeet@devrhylme.org       |
+| MAVRICK-1   | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
+| Vedant Anand | [@VedantAnand17](https://github.com/VedantAnand17) | vedantanand@devrhylme.org   |
+
 
 #### **Conclusion**  
 This GSoC project will **significantly enhance the Go ForgeX documentation website**, making it more user-friendly, **automated**, and interactive. By improving navigation, code reference, and searchability, this project will ensure **developers can quickly find relevant information and boost adoption of Documnetation**.
@@ -241,7 +254,14 @@ This project will involve **DevRhylme mentors** and open-source contributors, en
 
 **Repository** : [https://github.com/DEVRhylme-Foundation/new-website](https://github.com/DEVRhylme-Foundation/new-website) <br><br>
 
-**Mentors**:<br> Name: [@MAVRICK-1](https://github.com/MAVRICK-1) Email: rishimondal@devrhylme.org, <br> Name: [@Durgesh4993](https://github.com/Durgesh4993) Email: durgesh@devrhylme.org, <br> Name: [@Divyamsharma-18](https://github.com/Divyamsharma-18) Email: divyam@devrhylme.org, <br> Name: [@devsayanR](https://github.com/devsayanR) Email: sayan@devrhylme.org, <br> [@Manaregr8](https://github.com/Manaregr8) Email: manjeet@devrhylme.org 
+**Mentors**:
+| Name          | GitHub Profile                                      | Email                        |
+|--------------|---------------------------------------------------|------------------------------|
+| MAVRICK-1   | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
+| Durgesh4993 | [@Durgesh4993](https://github.com/Durgesh4993)   | durgesh@devrhylme.org       |
+| Divyam Sharma | [@Divyamsharma-18](https://github.com/Divyamsharma-18) | divyam@devrhylme.org       |
+| DevsayanR   | [@devsayanR](https://github.com/devsayanR)       | sayan@devrhylme.org         |
+| Manaregr8   | [@Manaregr8](https://github.com/Manaregr8)       | manjeet@devrhylme.org       |
 
 
 ---
