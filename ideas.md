@@ -78,8 +78,8 @@ This project will be open to **community feedback** through GitHub issues, Disco
 **Mentors**:
 | Name                      | GitHub Profile                                      | Email                        |
 |---------------------------|---------------------------------------------------|------------------------------|
-| Aditya                   | [@aditiya](https://github.com/aditiya)           | aditya@devrhylme.org        |
-| MAVRICK-1                | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
+| Aditya D                 | [@aditiya](https://github.com/aditiya)           | aditya@devrhylme.org        |
+| Rishi Mondel               | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
 | Vedant Anand             | [@VedantAnand17](https://github.com/VedantAnand17) | vedantanand@devrhylme.org   |
 
 
@@ -142,8 +142,8 @@ The project will involve active engagement with the **Devrhlylem Foundation** fo
 **Mentors**:
 | Name          | GitHub Profile                                      | Email                        |
 |--------------|---------------------------------------------------|------------------------------|
-| Manaregr8   | [@Manaregr8](https://github.com/Manaregr8)       | manjeet@devrhylme.org       |
-| MAVRICK-1   | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
+| Manjeet Singh   | [@Manaregr8](https://github.com/Manaregr8)       | manjeet@devrhylme.org       |
+| Rishi Mondel    | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
 | Vedant Anand | [@VedantAnand17](https://github.com/VedantAnand17) | vedantanand@devrhylme.org   |
 
 
@@ -257,11 +257,11 @@ This project will involve **DevRhylme mentors** and open-source contributors, en
 **Mentors**:
 | Name          | GitHub Profile                                      | Email                        |
 |--------------|---------------------------------------------------|------------------------------|
-| MAVRICK-1   | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
-| Durgesh4993 | [@Durgesh4993](https://github.com/Durgesh4993)   | durgesh@devrhylme.org       |
+| Rishi Mondel  | [@MAVRICK-1](https://github.com/MAVRICK-1)       | rishimondal@devrhylme.org   |
+| Durgesh Kr. | [@Durgesh4993](https://github.com/Durgesh4993)   | durgesh@devrhylme.org       |
 | Divyam Sharma | [@Divyamsharma-18](https://github.com/Divyamsharma-18) | divyam@devrhylme.org       |
-| DevsayanR   | [@devsayanR](https://github.com/devsayanR)       | sayan@devrhylme.org         |
-| Manaregr8   | [@Manaregr8](https://github.com/Manaregr8)       | manjeet@devrhylme.org       |
+| Sayan R   | [@devsayanR](https://github.com/devsayanR)       | sayan@devrhylme.org         |
+| Manjeet Singh   | [@Manaregr8](https://github.com/Manaregr8)       | manjeet@devrhylme.org       |
 
 
 ---
